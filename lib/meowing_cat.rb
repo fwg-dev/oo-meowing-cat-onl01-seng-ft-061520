@@ -5,5 +5,5 @@
 #Cat is able to meow
 
 class Cat
-attr_accessor: name
+attr_accessor :name
 end
